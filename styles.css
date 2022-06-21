@@ -39,6 +39,7 @@ ul{
 
 footer{
   background-color: #C0C0C0;
+  position: absolute;
   height: 12%;
   bottom: 0;
   width: 100%;
